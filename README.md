@@ -70,6 +70,6 @@ A cada atualização os detalhes devem ser lançados aqui.
 Aqui estão as referências usadas no projeto.
 
 1. <[https://github.com/iuricode/readme-template](https://docs.blynk.io/en)>
-2. <Aulas de iot>
+2. Aulas de iot
 3. <[https://creativecommons.org/share-your-work/](https://www.arduino.cc/reference/pt/)>
 
