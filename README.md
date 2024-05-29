@@ -1,57 +1,78 @@
-FECAP - Fundação de Comércio Álvares Penteado
+# FECAP - Fundação de Comércio Álvares Penteado
 
-![image](https://github.com/2024-1-NADS1-B/Projeto4/assets/126919950/b1e5cdb8-0a53-4dd8-b63b-3c0837a36821)
+<p align="center">
+<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+</p>
+
+# Suntech Innovators
+
+## Grupo 4
+
+## Integrantes: <a>Arthur Alves</a>, <a>Guilherme Luis</a>, <a>Diogo Bandeira</a>
+
+## Professores Orientadores: <a>Rodnil Silva</a>
+## Descrição
+
+<p align="center">
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+</p>
 
 
-# Projeto4
-Projeto 4 - Suntech Innovators (Grupo 4) 
 
-Integrantes:
-Arthur Alves , Diogo Moreira e Guilherme Passos
-
-
-Professor Orientador: Rodnil Silva
-
-Descrição:
-
+<br><br>
 Projeto focado em melhorar a eficiência da captação de energia solar, usando um arduino para controlar um servo motor de acordo com a incisão de luz em ldrs posicionados nas extremidades da placa solar e usando um sensor de voltagem conectado a um esp 8266 para verificar se a tensão gerada pela placa é o suficiente para carregar um dispositivo.
+<br><br>
 
--Raiz
-|
-|-->documentos
- |-->antigos
- |Documentação.docx
-|-->imagens
- |-->fecap.jpg
-|-->folder code
- |-->codigo_arduino_projeto_iot.ino
- |-->codigo_projeto_iot_esp8266.ino
-|readme.md
+<br><br>
+
+## 🛠 Estrutura de pastas
+
+-Raiz<br>
+|<br>
+|-->documentos<br>
+  &emsp;|-->Template Grupo 4.pdf<br>
+  &emsp;|Template_-_Projetos_de_Extensão Grupo4.rtf<br>
+  &emsp;|Template_-_Projetos_de_Extensão Grupo4.pdf<br>
+|-->folder code<br>
+  &emsp;|-->codigo_arduino_projeto_iot.ino<br>
+  &emsp;|-->codigo_projeto_iot_esp8266.ino<br>
+|-->imagens<br>
+  &emsp;|-->fecap.jpg<br>
+|readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
-README.MD: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
 Há também 3 pastas que seguem da seguinte forma:
 
-documentos: Toda a documentação estará nesta pasta.
+<b>documentos</b>: Toda a documentação estará nesta pasta.
 
-imagens: Imagens do sistema
+<b>folder code</b>: Pasta que contém o código fonte.
 
-src: Pasta que contém o código fonte.
+<b>imagens</b>: Imagens do sistema
 
-🗃 Histórico de lançamentos
-0.2.0 - 25/05/2024
-Apresentação do projeto
-0.1.1 - 25/05/2024
-Montagem física do projeto e realização do código
-0.1.0 - 22/05/2024
-Compra da lista de materiais necessários
-0.0.1 - 20/05/2024
-Decisão do tema
-🎓 Referências
+## 🗃 Histórico de lançamentos
+
+A cada atualização os detalhes devem ser lançados aqui.
+
+* 0.2.1 - 25/05/2024
+    * Apresentação do projeto
+* 0.2.0 - 23/05/2024
+    * Montagem física do projeto e realização do código
+* 0.1.1 - 22/05/2024
+    * Compra da lista de materiais necessários
+* 0.1.0 - 10/03/2024
+    * Decisão do tema
+   
+
+
+## 🎓 Referências
+
 Aqui estão as referências usadas no projeto.
 
-https://docs.blynk.io/en
-Aulas de iot
-https://www.arduino.cc/reference/pt/
+1. <[https://github.com/iuricode/readme-template](https://docs.blynk.io/en)>
+2. <Aulas de iot>
+3. <[https://creativecommons.org/share-your-work/](https://www.arduino.cc/reference/pt/)>
+
