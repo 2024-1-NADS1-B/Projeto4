@@ -29,8 +29,8 @@ Projeto focado em melhorar a eficiência da captação de energia solar, usando 
 |<br>
 |-->documentos<br>
   &emsp;|-->Template Grupo 4.pdf<br>
-  &emsp;|Template_-_Projetos_de_Extensão Grupo4.rtf<br>
-  &emsp;|Template_-_Projetos_de_Extensão Grupo4.pdf<br>
+  &emsp;|-->Template_-_Projetos_de_Extensão Grupo4.rtf<br>
+  &emsp;|-->Template_-_Projetos_de_Extensão Grupo4.pdf<br>
 |-->folder code<br>
   &emsp;|-->codigo_arduino_projeto_iot.ino<br>
   &emsp;|-->codigo_projeto_iot_esp8266.ino<br>
